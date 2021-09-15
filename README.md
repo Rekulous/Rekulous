@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Rekulous! 
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Distro-Debian-informational?style=flat&logo=Debian&logoColor=white&color=FF024E)](https://www.debian.org)
+[![](https://img.shields.io/discord/667897677752696878?label=Discord&message=online?style=flat&logo=discord&logoColor=white&color=6F85D4)](https://discord.gg/fmhy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rekulous&show_icons=true&theme=monokai" />
