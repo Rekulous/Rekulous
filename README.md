@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Rekulous! 
 
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
+[![](https://img.shields.io/discord/714146134909648899?label=Discord&message=online?style=flat&logo=discord&logoColor=white&color=6F85D4)](https://discord.gg/FMHY)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rekulous&show_icons=true&theme=monokai" />
 </a>
