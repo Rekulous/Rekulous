@@ -1,6 +1,11 @@
 ### Hi there 👋, I'm Rekulous! 
 
-![Rekulous's GitHub stats](https://github-readme-stats.vercel.app/api?username=rekulous&show_icons=true&theme=monokai)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rekulous&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekulous&theme=monokai" />
+</a>
 <!--
 **Rekulous/Rekulous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
